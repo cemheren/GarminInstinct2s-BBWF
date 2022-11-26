@@ -7,16 +7,13 @@ class PlottableArray
 
     public var data;
     
-    public var capacity;
-
     public var INVALID;
 
-    function initialize(invalidData, capacity)
+    function initialize(invalidData)
     {
         min = 2000;
         max = -1;
         data = [];
-        capacity = capacity;
 
         INVALID = invalidData;
     }
@@ -26,13 +23,8 @@ class PlottableArray
         data.add(item);
     }
 
-    function add(item as Numeric, when as Time.Moment)
+    function add(item as Numeric)
     {
-        if(when != null && data.size() == capacity)
-        {
-            
-        }
-
         if(min > item)
         {
             min = item;
