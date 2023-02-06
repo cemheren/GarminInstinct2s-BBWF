@@ -183,7 +183,7 @@ class test2View extends WatchUi.WatchFace {
         if(stats != null)
         {
             var pwr = stats.battery;
-            if(pwr < 10.1)
+            if(pwr < 2.1)
             {
                 var batStr = Lang.format("$1$%", [ pwr.format( "%2d" ) ] );
                 saliencyAreaLineOneCoor.drawSmallTextAt(dc, "low");
@@ -193,13 +193,13 @@ class test2View extends WatchUi.WatchFace {
         }
 
         var current = Toybox.Weather.getCurrentConditions();
-        if(current != null && current.feelsLikeTemperature != null && current.feelsLikeTemperature <= 0)
-        {
-            saliencyAreaLineOneCoor.drawSmallTextAt(dc, "❄️");
-            saliencyAreaLineTwoCoor.drawSmallTextAt(dc, current.feelsLikeTemperature);
+        // // if(current != null && current.feelsLikeTemperature != null && current.feelsLikeTemperature <= 0)
+        // // {
+        // //     saliencyAreaLineOneCoor.drawSmallTextAt(dc, "❄️");
+        // //     saliencyAreaLineTwoCoor.drawSmallTextAt(dc, current.feelsLikeTemperature);
 
-            return;
-        }
+        // //     return;
+        // // }
 
         if(current != null)
         {
