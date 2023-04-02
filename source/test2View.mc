@@ -5,6 +5,7 @@ import Toybox.WatchUi;
 import Toybox.Activity;
 import Toybox.Weather;
 import Toybox.UserProfile;
+import Toybox.ActivityMonitor;
 
 class test2View extends WatchUi.WatchFace {
 
@@ -49,6 +50,8 @@ class test2View extends WatchUi.WatchFace {
     private var saliencyAreaGraphCoor = new Coordinate(118, 14);
 
     private var saliencyAreaCircleGraphCoor = new Coordinate(136, 27);
+
+    private var recoveryInfoGraphCoor = new Coordinate(140, 60);
 
     private var prevMin;
 
@@ -138,6 +141,11 @@ class test2View extends WatchUi.WatchFace {
         bottomVerticalDividerOneStart.drawVerticalLine(dc, 1, 20);
         bottomVerticalDividerTwoStart.drawVerticalLine(dc, 1, 20);
 
+        if(info != null && info.timeToRecovery != null && info.timeToRecovery != 0)
+        {
+            recoveryInfoGraphCoor.drawTinyTextAt(dc, Lang.format("R$1$", [info.timeToRecovery]));
+        }
+
         prevMin = System.getClockTime().min;
     }
 
@@ -193,14 +201,7 @@ class test2View extends WatchUi.WatchFace {
         }
 
         var current = Toybox.Weather.getCurrentConditions();
-        // // if(current != null && current.feelsLikeTemperature != null && current.feelsLikeTemperature <= 0)
-        // // {
-        // //     saliencyAreaLineOneCoor.drawSmallTextAt(dc, "❄️");
-        // //     saliencyAreaLineTwoCoor.drawSmallTextAt(dc, current.feelsLikeTemperature);
-
-        // //     return;
-        // // }
-
+        
         if(current != null)
         {
             var forecastResult = forecast.getNextEvent(current);
@@ -210,6 +211,15 @@ class test2View extends WatchUi.WatchFace {
                 // saliencyAreaCircleGraphCoor.drawPercentageCurvedBarChart(dc, 25.0, 40.0, forecastResult.Data);
 
                 saliencyAreaGraphCoor.drawPercentageBarChart(dc, 25.0 /*height*/, 40.0, forecastResult.Data);
+                return;
+            }
+
+            // temps are in C by default
+            if(current.feelsLikeTemperature != null && current.highTemperature != null && current.highTemperature - current.feelsLikeTemperature > 4)
+            {
+                var fah = (current.highTemperature * 1.8 + 32).toNumber();
+                saliencyAreaLineTwoCoor.drawSmallTextAt(dc, Lang.format("$1$°$2$", [fah, WeatherConditions.GetWeatherEmoji(current.condition)]));
+                saliencyAreaLineOneCoor.drawSmallTextAt(dc, "warm");
                 return;
             }
         }

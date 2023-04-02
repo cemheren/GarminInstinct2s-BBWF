@@ -19,6 +19,7 @@ All other parts of the watch face is only drawn once a minute.
     * Picture above is showing sunset. Sunset and sunrise times are cached until the next event to save battery. 
     * If rain is coming this will show a precipitation forecast. Cached 30 mins to save battery. 
     * If battery is low, it will show battery percentage. 
-    * If freezing it will show a freezing alert. 
+    * If current feels like temp is 10 degrees lower than the expected high, it'll show a 'warm' indicator to denote how warm it'll get later.  
+7. Added a recovery area - shows recovery time only when it's set. 
 
 ![](screenshots/full.png)
