@@ -21,5 +21,7 @@ All other parts of the watch face is only drawn once a minute.
     * If battery is low, it will show battery percentage. 
     * If current feels like temp is 10 degrees lower than the expected high, it'll show a 'warm' indicator to denote how warm it'll get later.  
 7. Added a recovery area - shows recovery time only when it's set. 
+8. Top divider bar showing how long the night day/cycle has left in the last 8 hours
+9. Bottom divider under steps now show how far daily steps have progressed as a percentage 
 
 ![](screenshots/full.png)

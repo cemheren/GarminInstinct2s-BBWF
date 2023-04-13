@@ -6,6 +6,9 @@ import Toybox.Activity;
 import Toybox.Weather;
 import Toybox.UserProfile;
 import Toybox.ActivityMonitor;
+import Toybox.Time;
+import Toybox.Time.Gregorian;
+import Toybox.Math;
 
 class test2View extends WatchUi.WatchFace {
 
@@ -14,6 +17,7 @@ class test2View extends WatchUi.WatchFace {
     // private var dayCoordinate = new Coordinate(14, 8);
     // private var dayOfWeekCoordinate = new Coordinate(2, 22);
     // private var monthCoordinate = new Coordinate(2, 45);
+    private var EIGHT_HOURS = new Time.Duration(28800);
 
     private var hr = new HeartRate(true); 
     private var sunRiseSet = new SunRiseSet();
@@ -37,6 +41,8 @@ class test2View extends WatchUi.WatchFace {
     private var currentTemperatureFCoor = new Coordinate(30, middleBarStartY);
 
     private var stepsCoor = new Coordinate(75, middleBarStartY);
+    private var stepsBarCoor = new Coordinate(51, 118);
+    
     private var bottomRightBoxCoor = new Coordinate(127, middleBarStartY);
 
     private var heartRateAreaY = 122;
@@ -84,13 +90,10 @@ class test2View extends WatchUi.WatchFace {
     // Update the view
     function onUpdate(dc as Dc) as Void {
 
-        // userProfile = Toybox.UserProfile.getProfile();
-
         var time = System.getClockTime();
-        // var currHour = time.hour;
         var currMin = time.min;
 
-        if(currMin == prevMin)
+        if(currMin == prevMin) // update this section more frequently 
         {
             dc.setClip(heartRateCoordinate.X - 20, heartRateCoordinate.Y, 34, 30);
             dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
@@ -130,13 +133,50 @@ class test2View extends WatchUi.WatchFace {
         // currentTemperatureCoor.drawSmallTextAt(dc, Lang.format("$1$ $2$", [current.feelsLikeTemperature, WeatherConditions.GetWeatherEmoji(current.condition)]));
 
         var info = ActivityMonitor.getInfo();
-        if(info != null)
+        if(info != null && info.steps != null)
         {
-            var steps = info.steps;
-            stepsCoor.drawSmallTextAt(dc,  Lang.format("$1$", [steps]));
+            stepsCoor.drawSmallTextAt(dc,  Lang.format("$1$", [info.steps]));
+            
+            if(info.stepGoal != null && info.stepGoal != 0)
+            {
+                stepsBarCoor.drawHorizontalLineForPercentile(dc, 2, 49, info.steps.toDouble() / info.stepGoal);
+            }
         }
 
         topDividerStart.drawHorizontalLine(dc, 1, 78);
+        if(current != null && current.observationLocationPosition != null)
+        {
+            var riseSetResult = sunRiseSet.getNextEvent(current);
+            var moment = Time.now();
+            
+            if(riseSetResult.Type == "set")
+            {
+                var tillSet = riseSetResult.Time.subtract(moment); 
+                if(tillSet.greaterThan(EIGHT_HOURS))
+                {
+                    topDividerStart.drawHorizontalLineForPercentileFromRight(dc, 2, 78, 0);
+                }else
+                {
+                    var leftOver = tillSet.subtract(EIGHT_HOURS);
+                    topDividerStart.drawHorizontalLineForPercentileFromRight(dc, 2, 78, leftOver.value().toDouble() / EIGHT_HOURS.value());
+                }
+            }else
+            {
+                var tillRise = moment.subtract(riseSetResult.Time); 
+                if(tillRise.greaterThan(EIGHT_HOURS))
+                {
+                    topDividerStart.drawHorizontalLineForPercentileFromRight(dc, 2, 78, 0);
+                }else
+                {
+                    var leftOver = tillRise.subtract(EIGHT_HOURS);
+                    topDividerStart.drawHorizontalLineForPercentileFromRight(dc, 2, 78, leftOver.value().toDouble() / EIGHT_HOURS.value());
+                }
+            }
+
+            saliencyAreaLineOneCoor.drawSmallTextAt(dc, riseSetResult.Type);
+            saliencyAreaLineTwoCoor.drawSmallTextAt(dc, riseSetResult.TimeText);
+        }
+
         bottomDividerStart.drawHorizontalLine(dc, 1, 145);
         bottomVerticalDividerOneStart.drawVerticalLine(dc, 1, 20);
         bottomVerticalDividerTwoStart.drawVerticalLine(dc, 1, 20);
@@ -187,6 +227,17 @@ class test2View extends WatchUi.WatchFace {
 
     function drawSaliencyArea(dc as Dc)
     {
+        // var info = Activity.getActivityInfo();
+        // if(info != null && info.timerTime != null)
+        // {
+        //     var time = info.timerTime / 1000;
+        //     var mins = Math.floor(time / 60);
+        //     var seconds =  time - (mins * 60);
+        //     saliencyAreaLineOneCoor.drawSmallTextAt(dc, "timer");
+        //     saliencyAreaLineTwoCoor.drawSmallTextAt(dc, Lang.format("$1$:$2$", [mins, seconds]));
+        //     return;
+        // }
+
         var stats = System.getSystemStats();
         if(stats != null)
         {
@@ -214,8 +265,10 @@ class test2View extends WatchUi.WatchFace {
                 return;
             }
 
-            // temps are in C by default
-            if(current.feelsLikeTemperature != null && current.highTemperature != null && current.highTemperature - current.feelsLikeTemperature > 4)
+            // temps are in C by default 
+            // Don't show this later than 5, likely it's not going to get warmer
+            var clockTime = System.getClockTime();
+            if(clockTime.hour < 5 && current.feelsLikeTemperature != null && current.highTemperature != null && current.highTemperature - current.feelsLikeTemperature > 4)
             {
                 var fah = (current.highTemperature * 1.8 + 32).toNumber();
                 saliencyAreaLineTwoCoor.drawSmallTextAt(dc, Lang.format("$1$°$2$", [fah, WeatherConditions.GetWeatherEmoji(current.condition)]));

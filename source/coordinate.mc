@@ -46,6 +46,28 @@ class Coordinate
         );
     }
 
+    function drawHorizontalLineForPercentileFromRight(dc, width, maxLength, fraction)
+    {
+        if(fraction >= 1)
+        {
+            fraction = 1;
+        }
+
+        dc.setPenWidth(width);
+        dc.drawLine(X + (maxLength * fraction), Y, X + maxLength, Y);
+    }
+
+    function drawHorizontalLineForPercentile(dc, width, maxLength, fraction)
+    {
+        if(fraction >= 1)
+        {
+            fraction = 1;
+        }
+
+        dc.setPenWidth(width);
+        dc.drawLine(X, Y, X + (maxLength * fraction), Y);
+    }
+
     function drawHorizontalLine(dc, width, length)
     {
         dc.setPenWidth(width);
