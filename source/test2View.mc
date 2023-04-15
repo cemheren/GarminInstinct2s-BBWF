@@ -172,9 +172,6 @@ class test2View extends WatchUi.WatchFace {
                     topDividerStart.drawHorizontalLineForPercentileFromRight(dc, 2, 78, leftOver.value().toDouble() / EIGHT_HOURS.value());
                 }
             }
-
-            saliencyAreaLineOneCoor.drawSmallTextAt(dc, riseSetResult.Type);
-            saliencyAreaLineTwoCoor.drawSmallTextAt(dc, riseSetResult.TimeText);
         }
 
         bottomDividerStart.drawHorizontalLine(dc, 1, 145);
