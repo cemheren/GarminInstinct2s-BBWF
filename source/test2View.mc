@@ -60,6 +60,7 @@ class test2View extends WatchUi.WatchFace {
     private var recoveryInfoGraphCoor = new Coordinate(140, 60);
 
     private var prevMin;
+    private var nextDrawAll;
 
     private var userProfile;
 
@@ -106,11 +107,30 @@ class test2View extends WatchUi.WatchFace {
             return;
         }
 
+        if(nextDrawAll != null && (nextDrawAll > currMin))
+        {
+            dc.setClip(clockCoordinate.X - 40, clockCoordinate.Y, 85, 50);
+            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
+            dc.clear();
+
+            drawClocks(dc, true);
+
+            if(nextDrawAll > 60 && currMin < 15)
+            {
+                nextDrawAll = nextDrawAll % 60;
+            }
+
+            prevMin = currMin;
+            return; 
+        }
+
+        nextDrawAll = currMin + 15;
+
         dc.setClip(0, 0, 170, 170);
         dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
         dc.clear();
 
-        drawClocks(dc);
+        drawClocks(dc, false);
         drawSaliencyArea(dc);
 
         var hrData = hr.heartRateHistory();
@@ -186,11 +206,16 @@ class test2View extends WatchUi.WatchFace {
         prevMin = System.getClockTime().min;
     }
 
-    function drawClocks(dc as Dc)
+    function drawClocks(dc as Dc, onlyMain)
     {
         var clockTime = System.getClockTime();
         var timeString = Lang.format("$1$:$2$", [clockTime.hour, clockTime.min.format("%02d")]);
         clockCoordinate.drawLargeTextAt(dc, timeString);
+
+        if(onlyMain)
+        {
+            return;
+        }
 
         var moment = Time.now();
         var currentTime = Toybox.Time.Gregorian.info(moment, Time.FORMAT_MEDIUM);
