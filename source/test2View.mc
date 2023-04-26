@@ -134,9 +134,9 @@ class test2View extends WatchUi.WatchFace {
         drawSaliencyArea(dc);
 
         var hrData = hr.heartRateHistory();
-        heartRateTrendlineCoordinate.drawArray(dc, 30.0, hrData, 100, 120);
-
         var currentHeartRate = hr.currentHeartRate();
+        heartRateTrendlineCoordinate.drawArray(dc, 30.0, hrData, 100, 120, currentHeartRate);
+
         var heartrateString = Lang.format("$1$", [currentHeartRate]);
         heartRateCoordinate.drawSmallTextAt(dc, heartrateString);   
         
@@ -146,9 +146,15 @@ class test2View extends WatchUi.WatchFace {
             var fah = (current.feelsLikeTemperature * 1.8 + 32).toNumber();
             // currentTemperatureFCoor.drawTinyTextAt(dc, Lang.format("$1$", [fah]));
             currentTemperatureCoor.drawSmallTextAt(dc, Lang.format("$1$°$2$", [fah, WeatherConditions.GetWeatherEmoji(current.condition)]));
+
+            if(current.highTemperature != null && current.highTemperature > 0)
+            {
+                bottomDividerStart.drawHorizontalLineForPercentile(dc, 2, 45, current.feelsLikeTemperature.toDouble() / current.highTemperature );
+            }
+
         }else
         {
-            currentTemperatureCoor.drawSmallTextAt(dc, "--");
+            currentTemperatureCoor.drawSmallTextAt(dc, "--"); 
         }
         // currentTemperatureCoor.drawSmallTextAt(dc, Lang.format("$1$ $2$", [current.feelsLikeTemperature, WeatherConditions.GetWeatherEmoji(current.condition)]));
 

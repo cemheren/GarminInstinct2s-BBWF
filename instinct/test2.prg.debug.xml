@@ -72,325 +72,329 @@
 <entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="155" parent="globals/Coordinate" pc="268436769" symbol="drawArray"/>
 <entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="156" parent="globals/Coordinate" pc="268436798" symbol="drawArray"/>
 <entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="157" parent="globals/Coordinate" pc="268436805" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="159" parent="globals/Coordinate" pc="268436812" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="161" parent="globals/Coordinate" pc="268436829" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="162" parent="globals/Coordinate" pc="268436851" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="164" parent="globals/Coordinate" pc="268436895" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="165" parent="globals/Coordinate" pc="268436917" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="167" parent="globals/Coordinate" pc="268436961" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="169" parent="globals/Coordinate" pc="268437005" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="171" parent="globals/Coordinate" pc="268437022" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="172" parent="globals/Coordinate" pc="268437029" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="174" parent="globals/Coordinate" pc="268437036" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="176" parent="globals/Coordinate" pc="268437052" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="178" parent="globals/Coordinate" pc="268437099" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="180" parent="globals/Coordinate" pc="268437112" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="182" parent="globals/Coordinate" pc="268437126" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="185" parent="globals/Coordinate" pc="268437132" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="187" parent="globals/Coordinate" pc="268437139" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="189" parent="globals/Coordinate" pc="268437146" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="191" parent="globals/Coordinate" pc="268437157" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="192" parent="globals/Coordinate" pc="268437164" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="193" parent="globals/Coordinate" pc="268437177" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="194" parent="globals/Coordinate" pc="268437205" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="197" parent="globals/Coordinate" pc="268437211" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="198" parent="globals/Coordinate" pc="268437243" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="199" parent="globals/Coordinate" pc="268437250" symbol="drawArray"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="12" lineNum="3" parent="globals/Coordinate" pc="268444563" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="14" lineNum="15" parent="globals/WeatherServiceDelegate" pc="268437277" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="14" lineNum="16" parent="globals/WeatherServiceDelegate" pc="268437281" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="20" parent="globals/WeatherServiceDelegate" pc="268437304" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="21" parent="globals/WeatherServiceDelegate" pc="268437308" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="22" parent="globals/WeatherServiceDelegate" pc="268437325" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="24" parent="globals/WeatherServiceDelegate" pc="268437364" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="31" parent="globals/WeatherServiceDelegate" pc="268437424" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="39" parent="globals/WeatherServiceDelegate" pc="268437506" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="43" parent="globals/WeatherServiceDelegate" pc="268437524" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="44" parent="globals/WeatherServiceDelegate" pc="268437554" symbol="onTemporalEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="48" parent="globals/WeatherServiceDelegate" pc="268437585" symbol="onReceive"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="49" parent="globals/WeatherServiceDelegate" pc="268437589" symbol="onReceive"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="50" parent="globals/WeatherServiceDelegate" pc="268437600" symbol="onReceive"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="53" parent="globals/WeatherServiceDelegate" pc="268437624" symbol="onReceive"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="57" parent="globals/WeatherServiceDelegate" pc="268437648" symbol="onReceive"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="58" parent="globals/WeatherServiceDelegate" pc="268437672" symbol="onReceive"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="17" lineNum="11" parent="globals/WeatherServiceDelegate" pc="268443521" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="17" lineNum="11" parent="globals/WeatherServiceDelegate" pc="268443521" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="19" lineNum="3" parent="globals/ForecastResult" pc="268437691" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="19" lineNum="5" parent="globals/ForecastResult" pc="268437695" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="19" lineNum="6" parent="globals/ForecastResult" pc="268437705" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="20" lineNum="1" parent="globals/ForecastResult" pc="268443468" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="21" lineNum="23" parent="globals/Forecast" pc="268437716" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="21" lineNum="25" parent="globals/Forecast" pc="268437720" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="28" parent="globals/Forecast" pc="268437760" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="30" parent="globals/Forecast" pc="268437764" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="32" parent="globals/Forecast" pc="268437781" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="34" parent="globals/Forecast" pc="268437825" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="36" parent="globals/Forecast" pc="268437832" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="37" parent="globals/Forecast" pc="268437857" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="39" parent="globals/Forecast" pc="268437864" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="40" parent="globals/Forecast" pc="268437874" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="41" parent="globals/Forecast" pc="268437903" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="43" parent="globals/Forecast" pc="268437907" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="45" parent="globals/Forecast" pc="268437931" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="47" parent="globals/Forecast" pc="268437954" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="49" parent="globals/Forecast" pc="268437988" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="56" parent="globals/Forecast" pc="268437995" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="58" parent="globals/Forecast" pc="268438017" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="62" parent="globals/Forecast" pc="268438036" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="64" parent="globals/Forecast" pc="268438041" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="65" parent="globals/Forecast" pc="268438068" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="67" parent="globals/Forecast" pc="268438102" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="70" parent="globals/Forecast" pc="268438114" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="71" parent="globals/Forecast" pc="268438141" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="72" parent="globals/Forecast" pc="268438175" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="76" parent="globals/Forecast" pc="268438187" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="78" parent="globals/Forecast" pc="268438216" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="80" parent="globals/Forecast" pc="268438228" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="24" lineNum="13" parent="globals/Forecast/statics" pc="268443465" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="24" lineNum="13" parent="globals/Forecast" pc="268443464" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="26" lineNum="7" parent="globals/test2App" pc="268438238" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="26" lineNum="8" parent="globals/test2App" pc="268438242" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="27" lineNum="12" parent="globals/test2App" pc="268438261" symbol="onStart"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="28" lineNum="16" parent="globals/test2App" pc="268438266" symbol="onStop"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="29" lineNum="20" parent="globals/test2App" pc="268438271" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="29" lineNum="21" parent="globals/test2App" pc="268438275" symbol="getInitialView"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="30" lineNum="5" parent="globals/test2App" pc="268443500" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="30" lineNum="5" parent="globals/test2App" pc="268443500" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="31" lineNum="26" parent="globals" pc="268438313" symbol="getApp"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="31" lineNum="27" parent="globals" pc="268438325" symbol="getApp"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="33" lineNum="11" parent="globals/HeartRate" pc="268438342" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="33" lineNum="13" parent="globals/HeartRate" pc="268438346" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="16" parent="globals/HeartRate" pc="268438357" symbol="currentHeartRate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="18" parent="globals/HeartRate" pc="268438361" symbol="currentHeartRate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="20" parent="globals/HeartRate" pc="268438378" symbol="currentHeartRate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="22" parent="globals/HeartRate" pc="268438401" symbol="currentHeartRate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="25" parent="globals/HeartRate" pc="268438410" symbol="currentHeartRate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="28" parent="globals/HeartRate" pc="268438420" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="29" parent="globals/HeartRate" pc="268438424" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="31" parent="globals/HeartRate" pc="268438466" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="32" parent="globals/HeartRate" pc="268438481" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="34" parent="globals/HeartRate" pc="268438485" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="36" parent="globals/HeartRate" pc="268438509" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="37" parent="globals/HeartRate" pc="268438514" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="38" parent="globals/HeartRate" pc="268438527" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="41" parent="globals/HeartRate" pc="268438534" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="43" parent="globals/HeartRate" pc="268438558" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="47" parent="globals/HeartRate" pc="268438587" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="52" parent="globals/HeartRate" pc="268438616" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="57" parent="globals/HeartRate" pc="268438626" symbol="heartRateHistory"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="36" lineNum="4" parent="globals/HeartRate" pc="268443520" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="12" parent="globals/PlottableArray" pc="268438636" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="14" parent="globals/PlottableArray" pc="268438640" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="15" parent="globals/PlottableArray" pc="268438653" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="16" parent="globals/PlottableArray" pc="268438666" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="18" parent="globals/PlottableArray" pc="268438680" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="39" lineNum="21" parent="globals/PlottableArray" pc="268438691" symbol="addInvalidData"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="39" lineNum="23" parent="globals/PlottableArray" pc="268438695" symbol="addInvalidData"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="26" parent="globals/PlottableArray" pc="268438716" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="28" parent="globals/PlottableArray" pc="268438720" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="30" parent="globals/PlottableArray" pc="268438734" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="33" parent="globals/PlottableArray" pc="268438747" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="35" parent="globals/PlottableArray" pc="268438761" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="38" parent="globals/PlottableArray" pc="268438774" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="39" parent="globals/PlottableArray" pc="268438794" symbol="add"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="41" lineNum="3" parent="globals/PlottableArray" pc="268443519" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="43" lineNum="67" parent="globals/test2View" pc="268438798" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="43" lineNum="68" parent="globals/test2View" pc="268438802" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="44" lineNum="72" parent="globals/test2View" pc="268438821" symbol="onLayout"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="44" lineNum="73" parent="globals/test2View" pc="268438825" symbol="onLayout"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="45" lineNum="79" parent="globals/test2View" pc="268438863" symbol="onShow"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="46" lineNum="83" parent="globals/test2View" pc="268438868" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="92" parent="globals/test2View" pc="268438873" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="94" parent="globals/test2View" pc="268438877" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="95" parent="globals/test2View" pc="268438894" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="97" parent="globals/test2View" pc="268438904" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="99" parent="globals/test2View" pc="268438918" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="100" parent="globals/test2View" pc="268438974" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="101" parent="globals/test2View" pc="268439010" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="103" parent="globals/test2View" pc="268439022" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="104" parent="globals/test2View" pc="268439041" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="105" parent="globals/test2View" pc="268439079" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="107" parent="globals/test2View" pc="268439101" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="110" parent="globals/test2View" pc="268439105" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="112" parent="globals/test2View" pc="268439135" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="113" parent="globals/test2View" pc="268439191" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="114" parent="globals/test2View" pc="268439227" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="116" parent="globals/test2View" pc="268439239" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="118" parent="globals/test2View" pc="268439255" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="120" parent="globals/test2View" pc="268439286" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="123" parent="globals/test2View" pc="268439311" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="124" parent="globals/test2View" pc="268439321" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="127" parent="globals/test2View" pc="268439325" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="129" parent="globals/test2View" pc="268439341" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="130" parent="globals/test2View" pc="268439373" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="131" parent="globals/test2View" pc="268439409" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="133" parent="globals/test2View" pc="268439421" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="134" parent="globals/test2View" pc="268439437" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="136" parent="globals/test2View" pc="268439451" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="137" parent="globals/test2View" pc="268439470" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="139" parent="globals/test2View" pc="268439507" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="140" parent="globals/test2View" pc="268439526" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="141" parent="globals/test2View" pc="268439564" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="143" parent="globals/test2View" pc="268439586" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="144" parent="globals/test2View" pc="268439611" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="146" parent="globals/test2View" pc="268439634" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="148" parent="globals/test2View" pc="268439665" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="151" parent="globals/test2View" pc="268439757" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="155" parent="globals/test2View" pc="268439782" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="156" parent="globals/test2View" pc="268439799" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="158" parent="globals/test2View" pc="268439822" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="160" parent="globals/test2View" pc="268439884" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="162" parent="globals/test2View" pc="268439917" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="166" parent="globals/test2View" pc="268439979" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="167" parent="globals/test2View" pc="268440009" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="169" parent="globals/test2View" pc="268440032" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="170" parent="globals/test2View" pc="268440053" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="172" parent="globals/test2View" pc="268440070" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="174" parent="globals/test2View" pc="268440087" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="175" parent="globals/test2View" pc="268440108" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="177" parent="globals/test2View" pc="268440130" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="180" parent="globals/test2View" pc="268440168" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="181" parent="globals/test2View" pc="268440189" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="185" parent="globals/test2View" pc="268440260" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="186" parent="globals/test2View" pc="268440281" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="188" parent="globals/test2View" pc="268440303" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="191" parent="globals/test2View" pc="268440341" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="192" parent="globals/test2View" pc="268440362" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="197" parent="globals/test2View" pc="268440433" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="198" parent="globals/test2View" pc="268440463" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="199" parent="globals/test2View" pc="268440493" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="201" parent="globals/test2View" pc="268440523" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="203" parent="globals/test2View" pc="268440566" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="206" parent="globals/test2View" pc="268440631" symbol="onUpdate"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="209" parent="globals/test2View" pc="268440661" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="211" parent="globals/test2View" pc="268440665" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="212" parent="globals/test2View" pc="268440682" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="213" parent="globals/test2View" pc="268440756" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="215" parent="globals/test2View" pc="268440778" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="217" parent="globals/test2View" pc="268440783" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="220" parent="globals/test2View" pc="268440787" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="221" parent="globals/test2View" pc="268440804" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="226" parent="globals/test2View" pc="268440849" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="228" parent="globals/test2View" pc="268440941" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="229" parent="globals/test2View" pc="268440986" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="231" parent="globals/test2View" pc="268441044" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="233" parent="globals/test2View" pc="268441066" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="234" parent="globals/test2View" pc="268441088" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="236" parent="globals/test2View" pc="268441110" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="237" parent="globals/test2View" pc="268441180" symbol="drawClocks"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="250" parent="globals/test2View" pc="268441251" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="263" parent="globals/test2View" pc="268441255" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="264" parent="globals/test2View" pc="268441272" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="266" parent="globals/test2View" pc="268441279" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="267" parent="globals/test2View" pc="268441289" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="269" parent="globals/test2View" pc="268441300" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="270" parent="globals/test2View" pc="268441352" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="271" parent="globals/test2View" pc="268441377" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="272" parent="globals/test2View" pc="268441399" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="276" parent="globals/test2View" pc="268441406" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="278" parent="globals/test2View" pc="268441431" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="280" parent="globals/test2View" pc="268441438" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="282" parent="globals/test2View" pc="268441459" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="286" parent="globals/test2View" pc="268441496" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="287" parent="globals/test2View" pc="268441534" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="292" parent="globals/test2View" pc="268441538" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="293" parent="globals/test2View" pc="268441555" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="295" parent="globals/test2View" pc="268441633" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="296" parent="globals/test2View" pc="268441664" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="297" parent="globals/test2View" pc="268441753" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="298" parent="globals/test2View" pc="268441778" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="302" parent="globals/test2View" pc="268441785" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="304" parent="globals/test2View" pc="268441808" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="305" parent="globals/test2View" pc="268441829" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="306" parent="globals/test2View" pc="268441857" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="307" parent="globals/test2View" pc="268441885" symbol="drawSaliencyArea"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="50" lineNum="314" parent="globals/test2View" pc="268441890" symbol="onHide"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="51" lineNum="318" parent="globals/test2View" pc="268441895" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="51" lineNum="319" parent="globals/test2View" pc="268441899" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="52" lineNum="323" parent="globals/test2View" pc="268441910" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="52" lineNum="324" parent="globals/test2View" pc="268441914" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="13" parent="globals/test2View" pc="268443540" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="20" parent="globals/test2View" pc="268443558" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="22" parent="globals/test2View" pc="268443597" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="23" parent="globals/test2View" pc="268443629" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="24" parent="globals/test2View" pc="268443659" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="26" parent="globals/test2View" pc="268443689" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="27" parent="globals/test2View" pc="268443729" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="28" parent="globals/test2View" pc="268443769" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="29" parent="globals/test2View" pc="268443809" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="31" parent="globals/test2View" pc="268443849" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="32" parent="globals/test2View" pc="268443889" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="36" parent="globals/test2View" pc="268443929" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="37" parent="globals/test2View" pc="268443978" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="38" parent="globals/test2View" pc="268444021" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="40" parent="globals/test2View" pc="268444064" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="41" parent="globals/test2View" pc="268444107" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="43" parent="globals/test2View" pc="268444150" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="44" parent="globals/test2View" pc="268444193" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="46" parent="globals/test2View" pc="268444233" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="50" parent="globals/test2View" pc="268444276" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="51" parent="globals/test2View" pc="268444319" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="53" parent="globals/test2View" pc="268444362" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="54" parent="globals/test2View" pc="268444402" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="56" parent="globals/test2View" pc="268444442" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="58" parent="globals/test2View" pc="268444482" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="60" parent="globals/test2View" pc="268444522" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="13" parent="globals/test2View" pc="268443540" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="3" parent="globals/WeatherConditions" pc="268441925" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="7" parent="globals/WeatherConditions" pc="268441929" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="43" parent="globals/WeatherConditions" pc="268442359" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="11" parent="globals/WeatherConditions" pc="268442368" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="13" parent="globals/WeatherConditions" pc="268442374" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="16" parent="globals/WeatherConditions" pc="268442380" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="24" parent="globals/WeatherConditions" pc="268442386" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="27" parent="globals/WeatherConditions" pc="268442392" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="29" parent="globals/WeatherConditions" pc="268442398" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="31" parent="globals/WeatherConditions" pc="268442404" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="33" parent="globals/WeatherConditions" pc="268442410" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="35" parent="globals/WeatherConditions" pc="268442416" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="38" parent="globals/WeatherConditions" pc="268442422" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="40" parent="globals/WeatherConditions" pc="268442428" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="46" parent="globals/WeatherConditions" pc="268442437" symbol="GetWeatherEmoji"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="57" lineNum="1" parent="globals/WeatherConditions/statics" pc="268444565" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="57" lineNum="1" parent="globals/WeatherConditions" pc="268444564" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="58" lineNum="1" parent="globals/WeatherConditions" pc="268442444" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="3" parent="globals/SunRiseSetResult" pc="268442447" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="5" parent="globals/SunRiseSetResult" pc="268442451" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="6" parent="globals/SunRiseSetResult" pc="268442461" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="7" parent="globals/SunRiseSetResult" pc="268442471" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="61" lineNum="1" parent="globals/SunRiseSetResult" pc="268443469" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="62" lineNum="23" parent="globals/SunRiseSet" pc="268442482" symbol="initialize"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="28" parent="globals/SunRiseSet" pc="268442487" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="30" parent="globals/SunRiseSet" pc="268442491" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="32" parent="globals/SunRiseSet" pc="268442508" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="34" parent="globals/SunRiseSet" pc="268442552" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="36" parent="globals/SunRiseSet" pc="268442565" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="39" parent="globals/SunRiseSet" pc="268442650" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="41" parent="globals/SunRiseSet" pc="268442685" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="43" parent="globals/SunRiseSet" pc="268442707" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="44" parent="globals/SunRiseSet" pc="268442738" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="45" parent="globals/SunRiseSet" pc="268442849" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="46" parent="globals/SunRiseSet" pc="268442859" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="49" parent="globals/SunRiseSet" pc="268442871" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="50" parent="globals/SunRiseSet" pc="268442953" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="51" parent="globals/SunRiseSet" pc="268442984" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="52" parent="globals/SunRiseSet" pc="268443095" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="53" parent="globals/SunRiseSet" pc="268443105" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="55" parent="globals/SunRiseSet" pc="268443117" symbol="getNextEvent"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="65" lineNum="15" parent="globals/SunRiseSet/statics" pc="268443467" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="65" lineNum="15" parent="globals/SunRiseSet" pc="268443466" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="67" lineNum="2" parent="globals/Rez/Drawables" pc="268443494" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="68" lineNum="6" parent="globals/Rez/Fonts" pc="268443496" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="69" lineNum="8" parent="globals/Rez/JsonData" pc="268443498" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="70" lineNum="17" parent="globals/Rez/Layouts" pc="268443127" symbol="WatchFace"/>
-<entry filename="Rez" id="70" lineNum="19" parent="globals/Rez/Layouts" pc="268443139" symbol="WatchFace"/>
-<entry filename="Rez" id="70" lineNum="20" parent="globals/Rez/Layouts" pc="268443272" symbol="WatchFace"/>
-<entry filename="Rez" id="70" lineNum="22" parent="globals/Rez/Layouts" pc="268443435" symbol="WatchFace"/>
-<entry filename="Rez" id="71" lineNum="10" parent="globals/Rez/Layouts" pc="268443497" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="72" lineNum="27" parent="globals/Rez/Menus" pc="268443495" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="73" lineNum="29" parent="globals/Rez/Strings" pc="268443499" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="74" lineNum="1" parent="globals/Rez" pc="268443470" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="74" lineNum="1" parent="globals/Rez" pc="268443470" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="160" parent="globals/Coordinate" pc="268436812" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="162" parent="globals/Coordinate" pc="268436829" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="163" parent="globals/Coordinate" pc="268436851" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="166" parent="globals/Coordinate" pc="268436895" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="167" parent="globals/Coordinate" pc="268436917" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="170" parent="globals/Coordinate" pc="268436961" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="173" parent="globals/Coordinate" pc="268437005" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="174" parent="globals/Coordinate" pc="268437043" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="176" parent="globals/Coordinate" pc="268437087" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="178" parent="globals/Coordinate" pc="268437104" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="179" parent="globals/Coordinate" pc="268437111" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="181" parent="globals/Coordinate" pc="268437118" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="183" parent="globals/Coordinate" pc="268437134" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="185" parent="globals/Coordinate" pc="268437181" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="187" parent="globals/Coordinate" pc="268437194" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="189" parent="globals/Coordinate" pc="268437208" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="192" parent="globals/Coordinate" pc="268437214" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="194" parent="globals/Coordinate" pc="268437221" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="196" parent="globals/Coordinate" pc="268437228" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="198" parent="globals/Coordinate" pc="268437239" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="199" parent="globals/Coordinate" pc="268437246" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="200" parent="globals/Coordinate" pc="268437259" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="201" parent="globals/Coordinate" pc="268437287" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="204" parent="globals/Coordinate" pc="268437293" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="205" parent="globals/Coordinate" pc="268437325" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="11" lineNum="206" parent="globals/Coordinate" pc="268437332" symbol="drawArray"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\coordinate.mc" id="12" lineNum="3" parent="globals/Coordinate" pc="268444739" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="14" lineNum="15" parent="globals/WeatherServiceDelegate" pc="268437359" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="14" lineNum="16" parent="globals/WeatherServiceDelegate" pc="268437363" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="20" parent="globals/WeatherServiceDelegate" pc="268437386" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="21" parent="globals/WeatherServiceDelegate" pc="268437390" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="22" parent="globals/WeatherServiceDelegate" pc="268437407" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="24" parent="globals/WeatherServiceDelegate" pc="268437446" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="31" parent="globals/WeatherServiceDelegate" pc="268437506" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="39" parent="globals/WeatherServiceDelegate" pc="268437588" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="43" parent="globals/WeatherServiceDelegate" pc="268437606" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="15" lineNum="44" parent="globals/WeatherServiceDelegate" pc="268437636" symbol="onTemporalEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="48" parent="globals/WeatherServiceDelegate" pc="268437667" symbol="onReceive"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="49" parent="globals/WeatherServiceDelegate" pc="268437671" symbol="onReceive"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="50" parent="globals/WeatherServiceDelegate" pc="268437682" symbol="onReceive"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="53" parent="globals/WeatherServiceDelegate" pc="268437706" symbol="onReceive"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="57" parent="globals/WeatherServiceDelegate" pc="268437730" symbol="onReceive"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="16" lineNum="58" parent="globals/WeatherServiceDelegate" pc="268437754" symbol="onReceive"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="17" lineNum="11" parent="globals/WeatherServiceDelegate" pc="268443697" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherService.mc" id="17" lineNum="11" parent="globals/WeatherServiceDelegate" pc="268443697" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="19" lineNum="3" parent="globals/ForecastResult" pc="268437773" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="19" lineNum="5" parent="globals/ForecastResult" pc="268437777" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="19" lineNum="6" parent="globals/ForecastResult" pc="268437787" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="20" lineNum="1" parent="globals/ForecastResult" pc="268443644" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="21" lineNum="23" parent="globals/Forecast" pc="268437798" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="21" lineNum="25" parent="globals/Forecast" pc="268437802" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="28" parent="globals/Forecast" pc="268437842" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="30" parent="globals/Forecast" pc="268437846" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="32" parent="globals/Forecast" pc="268437863" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="34" parent="globals/Forecast" pc="268437907" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="36" parent="globals/Forecast" pc="268437914" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="37" parent="globals/Forecast" pc="268437939" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="39" parent="globals/Forecast" pc="268437946" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="40" parent="globals/Forecast" pc="268437956" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="41" parent="globals/Forecast" pc="268437985" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="43" parent="globals/Forecast" pc="268437989" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="45" parent="globals/Forecast" pc="268438013" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="47" parent="globals/Forecast" pc="268438036" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="49" parent="globals/Forecast" pc="268438070" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="56" parent="globals/Forecast" pc="268438077" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="58" parent="globals/Forecast" pc="268438099" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="62" parent="globals/Forecast" pc="268438118" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="64" parent="globals/Forecast" pc="268438123" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="65" parent="globals/Forecast" pc="268438150" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="67" parent="globals/Forecast" pc="268438184" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="70" parent="globals/Forecast" pc="268438196" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="71" parent="globals/Forecast" pc="268438223" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="72" parent="globals/Forecast" pc="268438257" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="76" parent="globals/Forecast" pc="268438269" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="78" parent="globals/Forecast" pc="268438298" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="22" lineNum="80" parent="globals/Forecast" pc="268438310" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="24" lineNum="13" parent="globals/Forecast/statics" pc="268443641" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\forecast.mc" id="24" lineNum="13" parent="globals/Forecast" pc="268443640" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="26" lineNum="7" parent="globals/test2App" pc="268438320" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="26" lineNum="8" parent="globals/test2App" pc="268438324" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="27" lineNum="12" parent="globals/test2App" pc="268438343" symbol="onStart"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="28" lineNum="16" parent="globals/test2App" pc="268438348" symbol="onStop"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="29" lineNum="20" parent="globals/test2App" pc="268438353" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="29" lineNum="21" parent="globals/test2App" pc="268438357" symbol="getInitialView"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="30" lineNum="5" parent="globals/test2App" pc="268443676" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="30" lineNum="5" parent="globals/test2App" pc="268443676" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="31" lineNum="26" parent="globals" pc="268438395" symbol="getApp"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2App.mc" id="31" lineNum="27" parent="globals" pc="268438407" symbol="getApp"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="33" lineNum="11" parent="globals/HeartRate" pc="268438424" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="33" lineNum="13" parent="globals/HeartRate" pc="268438428" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="16" parent="globals/HeartRate" pc="268438439" symbol="currentHeartRate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="18" parent="globals/HeartRate" pc="268438443" symbol="currentHeartRate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="20" parent="globals/HeartRate" pc="268438460" symbol="currentHeartRate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="22" parent="globals/HeartRate" pc="268438483" symbol="currentHeartRate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="34" lineNum="25" parent="globals/HeartRate" pc="268438492" symbol="currentHeartRate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="28" parent="globals/HeartRate" pc="268438502" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="29" parent="globals/HeartRate" pc="268438506" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="31" parent="globals/HeartRate" pc="268438548" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="32" parent="globals/HeartRate" pc="268438563" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="34" parent="globals/HeartRate" pc="268438567" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="36" parent="globals/HeartRate" pc="268438591" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="37" parent="globals/HeartRate" pc="268438596" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="38" parent="globals/HeartRate" pc="268438609" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="41" parent="globals/HeartRate" pc="268438616" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="43" parent="globals/HeartRate" pc="268438640" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="47" parent="globals/HeartRate" pc="268438669" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="52" parent="globals/HeartRate" pc="268438698" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="35" lineNum="57" parent="globals/HeartRate" pc="268438708" symbol="heartRateHistory"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\heartRate.mc" id="36" lineNum="4" parent="globals/HeartRate" pc="268443696" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="12" parent="globals/PlottableArray" pc="268438718" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="14" parent="globals/PlottableArray" pc="268438722" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="15" parent="globals/PlottableArray" pc="268438735" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="16" parent="globals/PlottableArray" pc="268438748" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="38" lineNum="18" parent="globals/PlottableArray" pc="268438762" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="39" lineNum="21" parent="globals/PlottableArray" pc="268438773" symbol="addInvalidData"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="39" lineNum="23" parent="globals/PlottableArray" pc="268438777" symbol="addInvalidData"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="26" parent="globals/PlottableArray" pc="268438798" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="28" parent="globals/PlottableArray" pc="268438802" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="30" parent="globals/PlottableArray" pc="268438816" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="33" parent="globals/PlottableArray" pc="268438829" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="35" parent="globals/PlottableArray" pc="268438843" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="38" parent="globals/PlottableArray" pc="268438856" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="40" lineNum="39" parent="globals/PlottableArray" pc="268438876" symbol="add"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\plottableArray.mc" id="41" lineNum="3" parent="globals/PlottableArray" pc="268443695" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="43" lineNum="67" parent="globals/test2View" pc="268438880" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="43" lineNum="68" parent="globals/test2View" pc="268438884" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="44" lineNum="72" parent="globals/test2View" pc="268438903" symbol="onLayout"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="44" lineNum="73" parent="globals/test2View" pc="268438907" symbol="onLayout"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="45" lineNum="79" parent="globals/test2View" pc="268438945" symbol="onShow"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="46" lineNum="83" parent="globals/test2View" pc="268438950" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="92" parent="globals/test2View" pc="268438955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="94" parent="globals/test2View" pc="268438959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="95" parent="globals/test2View" pc="268438976" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="97" parent="globals/test2View" pc="268438986" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="99" parent="globals/test2View" pc="268439000" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="100" parent="globals/test2View" pc="268439056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="101" parent="globals/test2View" pc="268439092" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="103" parent="globals/test2View" pc="268439104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="104" parent="globals/test2View" pc="268439123" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="105" parent="globals/test2View" pc="268439161" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="107" parent="globals/test2View" pc="268439183" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="110" parent="globals/test2View" pc="268439187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="112" parent="globals/test2View" pc="268439217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="113" parent="globals/test2View" pc="268439273" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="114" parent="globals/test2View" pc="268439309" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="116" parent="globals/test2View" pc="268439321" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="118" parent="globals/test2View" pc="268439337" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="120" parent="globals/test2View" pc="268439368" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="123" parent="globals/test2View" pc="268439393" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="124" parent="globals/test2View" pc="268439403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="127" parent="globals/test2View" pc="268439407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="129" parent="globals/test2View" pc="268439423" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="130" parent="globals/test2View" pc="268439455" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="131" parent="globals/test2View" pc="268439491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="133" parent="globals/test2View" pc="268439503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="134" parent="globals/test2View" pc="268439519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="136" parent="globals/test2View" pc="268439533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="137" parent="globals/test2View" pc="268439552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="138" parent="globals/test2View" pc="268439571" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="140" parent="globals/test2View" pc="268439610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="141" parent="globals/test2View" pc="268439648" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="143" parent="globals/test2View" pc="268439670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="144" parent="globals/test2View" pc="268439695" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="146" parent="globals/test2View" pc="268439718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="148" parent="globals/test2View" pc="268439749" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="150" parent="globals/test2View" pc="268439838" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="152" parent="globals/test2View" pc="268439871" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="157" parent="globals/test2View" pc="268439933" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="161" parent="globals/test2View" pc="268439958" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="162" parent="globals/test2View" pc="268439975" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="164" parent="globals/test2View" pc="268439998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="166" parent="globals/test2View" pc="268440060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="168" parent="globals/test2View" pc="268440093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="172" parent="globals/test2View" pc="268440155" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="173" parent="globals/test2View" pc="268440185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="175" parent="globals/test2View" pc="268440208" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="176" parent="globals/test2View" pc="268440229" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="178" parent="globals/test2View" pc="268440246" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="180" parent="globals/test2View" pc="268440263" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="181" parent="globals/test2View" pc="268440284" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="183" parent="globals/test2View" pc="268440306" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="186" parent="globals/test2View" pc="268440344" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="187" parent="globals/test2View" pc="268440365" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="191" parent="globals/test2View" pc="268440436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="192" parent="globals/test2View" pc="268440457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="194" parent="globals/test2View" pc="268440479" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="197" parent="globals/test2View" pc="268440517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="198" parent="globals/test2View" pc="268440538" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="203" parent="globals/test2View" pc="268440609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="204" parent="globals/test2View" pc="268440639" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="205" parent="globals/test2View" pc="268440669" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="207" parent="globals/test2View" pc="268440699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="209" parent="globals/test2View" pc="268440742" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="47" lineNum="212" parent="globals/test2View" pc="268440807" symbol="onUpdate"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="215" parent="globals/test2View" pc="268440837" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="217" parent="globals/test2View" pc="268440841" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="218" parent="globals/test2View" pc="268440858" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="219" parent="globals/test2View" pc="268440932" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="221" parent="globals/test2View" pc="268440954" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="223" parent="globals/test2View" pc="268440959" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="226" parent="globals/test2View" pc="268440963" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="227" parent="globals/test2View" pc="268440980" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="232" parent="globals/test2View" pc="268441025" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="234" parent="globals/test2View" pc="268441117" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="235" parent="globals/test2View" pc="268441162" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="237" parent="globals/test2View" pc="268441220" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="239" parent="globals/test2View" pc="268441242" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="240" parent="globals/test2View" pc="268441264" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="242" parent="globals/test2View" pc="268441286" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="48" lineNum="243" parent="globals/test2View" pc="268441356" symbol="drawClocks"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="256" parent="globals/test2View" pc="268441427" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="269" parent="globals/test2View" pc="268441431" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="270" parent="globals/test2View" pc="268441448" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="272" parent="globals/test2View" pc="268441455" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="273" parent="globals/test2View" pc="268441465" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="275" parent="globals/test2View" pc="268441476" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="276" parent="globals/test2View" pc="268441528" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="277" parent="globals/test2View" pc="268441553" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="278" parent="globals/test2View" pc="268441575" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="282" parent="globals/test2View" pc="268441582" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="284" parent="globals/test2View" pc="268441607" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="286" parent="globals/test2View" pc="268441614" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="288" parent="globals/test2View" pc="268441635" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="292" parent="globals/test2View" pc="268441672" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="293" parent="globals/test2View" pc="268441710" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="298" parent="globals/test2View" pc="268441714" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="299" parent="globals/test2View" pc="268441731" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="301" parent="globals/test2View" pc="268441809" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="302" parent="globals/test2View" pc="268441840" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="303" parent="globals/test2View" pc="268441929" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="304" parent="globals/test2View" pc="268441954" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="308" parent="globals/test2View" pc="268441961" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="310" parent="globals/test2View" pc="268441984" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="311" parent="globals/test2View" pc="268442005" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="312" parent="globals/test2View" pc="268442033" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="49" lineNum="313" parent="globals/test2View" pc="268442061" symbol="drawSaliencyArea"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="50" lineNum="320" parent="globals/test2View" pc="268442066" symbol="onHide"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="51" lineNum="324" parent="globals/test2View" pc="268442071" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="51" lineNum="325" parent="globals/test2View" pc="268442075" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="52" lineNum="329" parent="globals/test2View" pc="268442086" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="52" lineNum="330" parent="globals/test2View" pc="268442090" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="13" parent="globals/test2View" pc="268443716" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="20" parent="globals/test2View" pc="268443734" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="22" parent="globals/test2View" pc="268443773" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="23" parent="globals/test2View" pc="268443805" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="24" parent="globals/test2View" pc="268443835" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="26" parent="globals/test2View" pc="268443865" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="27" parent="globals/test2View" pc="268443905" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="28" parent="globals/test2View" pc="268443945" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="29" parent="globals/test2View" pc="268443985" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="31" parent="globals/test2View" pc="268444025" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="32" parent="globals/test2View" pc="268444065" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="36" parent="globals/test2View" pc="268444105" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="37" parent="globals/test2View" pc="268444154" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="38" parent="globals/test2View" pc="268444197" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="40" parent="globals/test2View" pc="268444240" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="41" parent="globals/test2View" pc="268444283" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="43" parent="globals/test2View" pc="268444326" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="44" parent="globals/test2View" pc="268444369" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="46" parent="globals/test2View" pc="268444409" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="50" parent="globals/test2View" pc="268444452" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="51" parent="globals/test2View" pc="268444495" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="53" parent="globals/test2View" pc="268444538" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="54" parent="globals/test2View" pc="268444578" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="56" parent="globals/test2View" pc="268444618" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="58" parent="globals/test2View" pc="268444658" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="60" parent="globals/test2View" pc="268444698" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\test2View.mc" id="53" lineNum="13" parent="globals/test2View" pc="268443716" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="3" parent="globals/WeatherConditions" pc="268442101" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="7" parent="globals/WeatherConditions" pc="268442105" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="43" parent="globals/WeatherConditions" pc="268442535" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="11" parent="globals/WeatherConditions" pc="268442544" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="13" parent="globals/WeatherConditions" pc="268442550" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="16" parent="globals/WeatherConditions" pc="268442556" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="24" parent="globals/WeatherConditions" pc="268442562" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="27" parent="globals/WeatherConditions" pc="268442568" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="29" parent="globals/WeatherConditions" pc="268442574" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="31" parent="globals/WeatherConditions" pc="268442580" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="33" parent="globals/WeatherConditions" pc="268442586" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="35" parent="globals/WeatherConditions" pc="268442592" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="38" parent="globals/WeatherConditions" pc="268442598" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="40" parent="globals/WeatherConditions" pc="268442604" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="55" lineNum="46" parent="globals/WeatherConditions" pc="268442613" symbol="GetWeatherEmoji"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="57" lineNum="1" parent="globals/WeatherConditions/statics" pc="268444741" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="57" lineNum="1" parent="globals/WeatherConditions" pc="268444740" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\weatherConditions.mc" id="58" lineNum="1" parent="globals/WeatherConditions" pc="268442620" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="3" parent="globals/SunRiseSetResult" pc="268442623" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="5" parent="globals/SunRiseSetResult" pc="268442627" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="6" parent="globals/SunRiseSetResult" pc="268442637" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="60" lineNum="7" parent="globals/SunRiseSetResult" pc="268442647" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="61" lineNum="1" parent="globals/SunRiseSetResult" pc="268443645" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="62" lineNum="23" parent="globals/SunRiseSet" pc="268442658" symbol="initialize"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="28" parent="globals/SunRiseSet" pc="268442663" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="30" parent="globals/SunRiseSet" pc="268442667" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="32" parent="globals/SunRiseSet" pc="268442684" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="34" parent="globals/SunRiseSet" pc="268442728" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="36" parent="globals/SunRiseSet" pc="268442741" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="39" parent="globals/SunRiseSet" pc="268442826" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="41" parent="globals/SunRiseSet" pc="268442861" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="43" parent="globals/SunRiseSet" pc="268442883" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="44" parent="globals/SunRiseSet" pc="268442914" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="45" parent="globals/SunRiseSet" pc="268443025" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="46" parent="globals/SunRiseSet" pc="268443035" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="49" parent="globals/SunRiseSet" pc="268443047" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="50" parent="globals/SunRiseSet" pc="268443129" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="51" parent="globals/SunRiseSet" pc="268443160" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="52" parent="globals/SunRiseSet" pc="268443271" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="53" parent="globals/SunRiseSet" pc="268443281" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="63" lineNum="55" parent="globals/SunRiseSet" pc="268443293" symbol="getNextEvent"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="65" lineNum="15" parent="globals/SunRiseSet/statics" pc="268443643" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\cemhe\\garmintest1\\test2\\source\\sunRiseSet.mc" id="65" lineNum="15" parent="globals/SunRiseSet" pc="268443642" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="67" lineNum="2" parent="globals/Rez/Drawables" pc="268443670" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="68" lineNum="6" parent="globals/Rez/Fonts" pc="268443672" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="69" lineNum="8" parent="globals/Rez/JsonData" pc="268443674" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="70" lineNum="17" parent="globals/Rez/Layouts" pc="268443303" symbol="WatchFace"/>
+<entry filename="Rez" id="70" lineNum="19" parent="globals/Rez/Layouts" pc="268443315" symbol="WatchFace"/>
+<entry filename="Rez" id="70" lineNum="20" parent="globals/Rez/Layouts" pc="268443448" symbol="WatchFace"/>
+<entry filename="Rez" id="70" lineNum="22" parent="globals/Rez/Layouts" pc="268443611" symbol="WatchFace"/>
+<entry filename="Rez" id="71" lineNum="10" parent="globals/Rez/Layouts" pc="268443673" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="72" lineNum="27" parent="globals/Rez/Menus" pc="268443671" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="73" lineNum="29" parent="globals/Rez/Strings" pc="268443675" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="74" lineNum="1" parent="globals/Rez" pc="268443646" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="74" lineNum="1" parent="globals/Rez" pc="268443646" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="47" symbol="&lt;globals/test2View/&lt;&gt;hr&gt;"/>
@@ -591,101 +595,103 @@
 <entry arg="true" endPc="268436735" name="dc" stackId="1" startPc="268436379"/>
 <entry arg="true" endPc="268436735" name="width" stackId="3" startPc="268436379"/>
 <entry arg="true" endPc="268436735" name="data" stackId="4" startPc="268436379"/>
-<entry endPc="268437262" name="hrDiffFromMax" stackId="17" startPc="268437099"/>
-<entry endPc="268437262" name="currentHR" stackId="18" startPc="268437099"/>
-<entry endPc="268437262" name="item" stackId="16" startPc="268437099"/>
-<entry endPc="268437275" name="i" stackId="15" startPc="268437099"/>
-<entry endPc="268437275" name="oneTwentyP" stackId="11" startPc="268436740"/>
-<entry endPc="268437275" name="dX" stackId="14" startPc="268436740"/>
-<entry endPc="268437275" name="min" stackId="7" startPc="268436740"/>
-<entry endPc="268437275" name="prevY" stackId="13" startPc="268436740"/>
-<entry endPc="268437275" name="prevX" stackId="12" startPc="268436740"/>
-<entry endPc="268437275" name="eightyP" stackId="10" startPc="268436740"/>
-<entry endPc="268437275" name="max" stackId="6" startPc="268436740"/>
-<entry endPc="268437275" name="diff" stackId="8" startPc="268436740"/>
-<entry endPc="268437275" name="oneHR" stackId="9" startPc="268436740"/>
-<entry arg="true" endPc="268437276" name="height" stackId="2" startPc="268436736"/>
-<entry arg="true" endPc="268437276" name="dc" stackId="1" startPc="268436736"/>
-<entry arg="true" endPc="268437276" name="maxOverride" stackId="5" startPc="268436736"/>
-<entry arg="true" endPc="268437276" name="minOverride" stackId="4" startPc="268436736"/>
-<entry arg="true" endPc="268437276" name="data" stackId="3" startPc="268436736"/>
-<entry endPc="268437583" name="options" stackId="4" startPc="268437308"/>
-<entry endPc="268437583" name="now" stackId="1" startPc="268437308"/>
-<entry endPc="268437583" name="responseCallback" stackId="5" startPc="268437308"/>
-<entry endPc="268437583" name="ts" stackId="2" startPc="268437308"/>
-<entry endPc="268437583" name="params" stackId="3" startPc="268437308"/>
-<entry arg="true" endPc="268437690" name="responseCode" stackId="1" startPc="268437585"/>
-<entry arg="true" endPc="268437690" name="data" stackId="2" startPc="268437585"/>
-<entry arg="true" endPc="268437715" name="rain" stackId="2" startPc="268437691"/>
-<entry arg="true" endPc="268437715" name="data" stackId="1" startPc="268437691"/>
-<entry endPc="268438035" name="i" stackId="7" startPc="268437931"/>
-<entry endPc="268438183" name="rain" stackId="6" startPc="268437864"/>
-<entry endPc="268438183" name="graphData" stackId="5" startPc="268437864"/>
-<entry endPc="268438183" name="currPrecip" stackId="4" startPc="268437864"/>
-<entry endPc="268438212" name="forecast" stackId="3" startPc="268437832"/>
-<entry endPc="268438236" name="moment" stackId="2" startPc="268437764"/>
-<entry arg="true" endPc="268438237" name="current" stackId="1" startPc="268437760"/>
-<entry arg="true" endPc="268438265" name="state" stackId="1" startPc="268438261"/>
-<entry arg="true" endPc="268438270" name="state" stackId="1" startPc="268438266"/>
-<entry arg="true" endPc="268438356" name="showHeartRate" stackId="1" startPc="268438342"/>
-<entry endPc="268438418" name="info" stackId="1" startPc="268438361"/>
-<entry endPc="268438619" name="sample" stackId="3" startPc="268438514"/>
-<entry endPc="268438622" name="iterator" stackId="2" startPc="268438481"/>
-<entry endPc="268438622" name="getNext" stackId="1" startPc="268438481"/>
-<entry arg="true" endPc="268438690" name="invalidData" stackId="1" startPc="268438636"/>
-<entry arg="true" endPc="268438715" name="item" stackId="1" startPc="268438691"/>
-<entry arg="true" endPc="268438797" name="item" stackId="1" startPc="268438716"/>
-<entry arg="true" endPc="268438862" name="dc" stackId="1" startPc="268438821"/>
-<entry arg="true" endPc="268438872" name="dc" stackId="1" startPc="268438868"/>
-<entry endPc="268439101" name="heartrateString" stackId="5" startPc="268438918"/>
-<entry endPc="268439101" name="currentHeartRate" stackId="4" startPc="268438918"/>
-<entry endPc="268439753" name="fah" stackId="10" startPc="268439634"/>
-<entry endPc="268440256" name="leftOver" stackId="15" startPc="268440168"/>
-<entry endPc="268440256" name="tillSet" stackId="14" startPc="268440087"/>
-<entry endPc="268440429" name="leftOver" stackId="17" startPc="268440341"/>
-<entry endPc="268440429" name="tillRise" stackId="16" startPc="268440260"/>
-<entry endPc="268440429" name="riseSetResult" stackId="12" startPc="268440032"/>
-<entry endPc="268440429" name="moment" stackId="13" startPc="268440032"/>
-<entry endPc="268440659" name="currMin" stackId="3" startPc="268438877"/>
-<entry endPc="268440659" name="heartrateString" stackId="8" startPc="268438877"/>
-<entry endPc="268440659" name="currentHeartRate" stackId="7" startPc="268438877"/>
-<entry endPc="268440659" name="hrData" stackId="6" startPc="268438877"/>
-<entry endPc="268440659" name="info" stackId="11" startPc="268438877"/>
-<entry endPc="268440659" name="current" stackId="9" startPc="268438877"/>
-<entry endPc="268440659" name="time" stackId="2" startPc="268438877"/>
-<entry arg="true" endPc="268440660" name="dc" stackId="1" startPc="268438873"/>
-<entry endPc="268441249" name="utcTimeString" stackId="8" startPc="268440665"/>
-<entry endPc="268441249" name="japanHour" stackId="9" startPc="268440665"/>
-<entry endPc="268441249" name="utcTime" stackId="7" startPc="268440665"/>
-<entry endPc="268441249" name="timeString" stackId="4" startPc="268440665"/>
-<entry endPc="268441249" name="currentTime" stackId="6" startPc="268440665"/>
-<entry endPc="268441249" name="clockTime" stackId="3" startPc="268440665"/>
-<entry endPc="268441249" name="moment" stackId="5" startPc="268440665"/>
-<entry endPc="268441249" name="turkeyHour" stackId="10" startPc="268440665"/>
-<entry arg="true" endPc="268441250" name="dc" stackId="1" startPc="268440661"/>
-<entry arg="true" endPc="268441250" name="onlyMain" stackId="2" startPc="268440661"/>
-<entry endPc="268441399" name="batStr" stackId="4" startPc="268441300"/>
-<entry endPc="268441402" name="pwr" stackId="3" startPc="268441279"/>
-<entry endPc="268441778" name="fah" stackId="8" startPc="268441633"/>
-<entry endPc="268441781" name="clockTime" stackId="7" startPc="268441438"/>
-<entry endPc="268441781" name="forecastResult" stackId="6" startPc="268441438"/>
-<entry endPc="268441885" name="riseSetResult" stackId="9" startPc="268441808"/>
-<entry endPc="268441888" name="stats" stackId="2" startPc="268441255"/>
-<entry endPc="268441888" name="current" stackId="5" startPc="268441255"/>
-<entry arg="true" endPc="268441889" name="dc" stackId="1" startPc="268441251"/>
-<entry arg="true" endPc="268442443" name="c" stackId="1" startPc="268441925"/>
-<entry arg="true" endPc="268442481" name="timeText" stackId="2" startPc="268442447"/>
-<entry arg="true" endPc="268442481" name="type" stackId="1" startPc="268442447"/>
-<entry arg="true" endPc="268442481" name="time" stackId="3" startPc="268442447"/>
-<entry endPc="268442867" name="set" stackId="4" startPc="268442707"/>
-<entry endPc="268443113" name="nextSunRise" stackId="5" startPc="268442552"/>
-<entry endPc="268443113" name="rise" stackId="6" startPc="268442552"/>
-<entry endPc="268443113" name="currSunset" stackId="3" startPc="268442552"/>
-<entry endPc="268443125" name="moment" stackId="2" startPc="268442491"/>
-<entry arg="true" endPc="268443126" name="current" stackId="1" startPc="268442487"/>
-<entry endPc="268443461" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268443139"/>
-<entry endPc="268443461" name="rez_cmp_local_text_HeartRate" stackId="3" startPc="268443139"/>
-<entry arg="true" endPc="268443462" name="dc" stackId="1" startPc="268443127"/>
+<entry endPc="268437344" name="hrDiffFromMax" stackId="19" startPc="268437181"/>
+<entry endPc="268437344" name="currentHR" stackId="20" startPc="268437181"/>
+<entry endPc="268437344" name="item" stackId="18" startPc="268437181"/>
+<entry endPc="268437357" name="i" stackId="17" startPc="268437181"/>
+<entry endPc="268437357" name="oneTwentyP" stackId="12" startPc="268436740"/>
+<entry endPc="268437357" name="dX" stackId="16" startPc="268436740"/>
+<entry endPc="268437357" name="min" stackId="8" startPc="268436740"/>
+<entry endPc="268437357" name="prevY" stackId="15" startPc="268436740"/>
+<entry endPc="268437357" name="prevX" stackId="14" startPc="268436740"/>
+<entry endPc="268437357" name="eightyP" stackId="11" startPc="268436740"/>
+<entry endPc="268437357" name="max" stackId="7" startPc="268436740"/>
+<entry endPc="268437357" name="diff" stackId="9" startPc="268436740"/>
+<entry endPc="268437357" name="currentValueP" stackId="13" startPc="268436740"/>
+<entry endPc="268437357" name="oneHR" stackId="10" startPc="268436740"/>
+<entry arg="true" endPc="268437358" name="height" stackId="2" startPc="268436736"/>
+<entry arg="true" endPc="268437358" name="dc" stackId="1" startPc="268436736"/>
+<entry arg="true" endPc="268437358" name="maxOverride" stackId="5" startPc="268436736"/>
+<entry arg="true" endPc="268437358" name="minOverride" stackId="4" startPc="268436736"/>
+<entry arg="true" endPc="268437358" name="currentValue" stackId="6" startPc="268436736"/>
+<entry arg="true" endPc="268437358" name="data" stackId="3" startPc="268436736"/>
+<entry endPc="268437665" name="options" stackId="4" startPc="268437390"/>
+<entry endPc="268437665" name="now" stackId="1" startPc="268437390"/>
+<entry endPc="268437665" name="responseCallback" stackId="5" startPc="268437390"/>
+<entry endPc="268437665" name="ts" stackId="2" startPc="268437390"/>
+<entry endPc="268437665" name="params" stackId="3" startPc="268437390"/>
+<entry arg="true" endPc="268437772" name="responseCode" stackId="1" startPc="268437667"/>
+<entry arg="true" endPc="268437772" name="data" stackId="2" startPc="268437667"/>
+<entry arg="true" endPc="268437797" name="rain" stackId="2" startPc="268437773"/>
+<entry arg="true" endPc="268437797" name="data" stackId="1" startPc="268437773"/>
+<entry endPc="268438117" name="i" stackId="7" startPc="268438013"/>
+<entry endPc="268438265" name="rain" stackId="6" startPc="268437946"/>
+<entry endPc="268438265" name="graphData" stackId="5" startPc="268437946"/>
+<entry endPc="268438265" name="currPrecip" stackId="4" startPc="268437946"/>
+<entry endPc="268438294" name="forecast" stackId="3" startPc="268437914"/>
+<entry endPc="268438318" name="moment" stackId="2" startPc="268437846"/>
+<entry arg="true" endPc="268438319" name="current" stackId="1" startPc="268437842"/>
+<entry arg="true" endPc="268438347" name="state" stackId="1" startPc="268438343"/>
+<entry arg="true" endPc="268438352" name="state" stackId="1" startPc="268438348"/>
+<entry arg="true" endPc="268438438" name="showHeartRate" stackId="1" startPc="268438424"/>
+<entry endPc="268438500" name="info" stackId="1" startPc="268438443"/>
+<entry endPc="268438701" name="sample" stackId="3" startPc="268438596"/>
+<entry endPc="268438704" name="iterator" stackId="2" startPc="268438563"/>
+<entry endPc="268438704" name="getNext" stackId="1" startPc="268438563"/>
+<entry arg="true" endPc="268438772" name="invalidData" stackId="1" startPc="268438718"/>
+<entry arg="true" endPc="268438797" name="item" stackId="1" startPc="268438773"/>
+<entry arg="true" endPc="268438879" name="item" stackId="1" startPc="268438798"/>
+<entry arg="true" endPc="268438944" name="dc" stackId="1" startPc="268438903"/>
+<entry arg="true" endPc="268438954" name="dc" stackId="1" startPc="268438950"/>
+<entry endPc="268439183" name="heartrateString" stackId="5" startPc="268439000"/>
+<entry endPc="268439183" name="currentHeartRate" stackId="4" startPc="268439000"/>
+<entry endPc="268439929" name="fah" stackId="10" startPc="268439718"/>
+<entry endPc="268440432" name="leftOver" stackId="15" startPc="268440344"/>
+<entry endPc="268440432" name="tillSet" stackId="14" startPc="268440263"/>
+<entry endPc="268440605" name="leftOver" stackId="17" startPc="268440517"/>
+<entry endPc="268440605" name="tillRise" stackId="16" startPc="268440436"/>
+<entry endPc="268440605" name="riseSetResult" stackId="12" startPc="268440208"/>
+<entry endPc="268440605" name="moment" stackId="13" startPc="268440208"/>
+<entry endPc="268440835" name="currMin" stackId="3" startPc="268438959"/>
+<entry endPc="268440835" name="heartrateString" stackId="8" startPc="268438959"/>
+<entry endPc="268440835" name="currentHeartRate" stackId="7" startPc="268438959"/>
+<entry endPc="268440835" name="hrData" stackId="6" startPc="268438959"/>
+<entry endPc="268440835" name="info" stackId="11" startPc="268438959"/>
+<entry endPc="268440835" name="current" stackId="9" startPc="268438959"/>
+<entry endPc="268440835" name="time" stackId="2" startPc="268438959"/>
+<entry arg="true" endPc="268440836" name="dc" stackId="1" startPc="268438955"/>
+<entry endPc="268441425" name="utcTimeString" stackId="8" startPc="268440841"/>
+<entry endPc="268441425" name="japanHour" stackId="9" startPc="268440841"/>
+<entry endPc="268441425" name="utcTime" stackId="7" startPc="268440841"/>
+<entry endPc="268441425" name="timeString" stackId="4" startPc="268440841"/>
+<entry endPc="268441425" name="currentTime" stackId="6" startPc="268440841"/>
+<entry endPc="268441425" name="clockTime" stackId="3" startPc="268440841"/>
+<entry endPc="268441425" name="moment" stackId="5" startPc="268440841"/>
+<entry endPc="268441425" name="turkeyHour" stackId="10" startPc="268440841"/>
+<entry arg="true" endPc="268441426" name="dc" stackId="1" startPc="268440837"/>
+<entry arg="true" endPc="268441426" name="onlyMain" stackId="2" startPc="268440837"/>
+<entry endPc="268441575" name="batStr" stackId="4" startPc="268441476"/>
+<entry endPc="268441578" name="pwr" stackId="3" startPc="268441455"/>
+<entry endPc="268441954" name="fah" stackId="8" startPc="268441809"/>
+<entry endPc="268441957" name="clockTime" stackId="7" startPc="268441614"/>
+<entry endPc="268441957" name="forecastResult" stackId="6" startPc="268441614"/>
+<entry endPc="268442061" name="riseSetResult" stackId="9" startPc="268441984"/>
+<entry endPc="268442064" name="stats" stackId="2" startPc="268441431"/>
+<entry endPc="268442064" name="current" stackId="5" startPc="268441431"/>
+<entry arg="true" endPc="268442065" name="dc" stackId="1" startPc="268441427"/>
+<entry arg="true" endPc="268442619" name="c" stackId="1" startPc="268442101"/>
+<entry arg="true" endPc="268442657" name="timeText" stackId="2" startPc="268442623"/>
+<entry arg="true" endPc="268442657" name="type" stackId="1" startPc="268442623"/>
+<entry arg="true" endPc="268442657" name="time" stackId="3" startPc="268442623"/>
+<entry endPc="268443043" name="set" stackId="4" startPc="268442883"/>
+<entry endPc="268443289" name="nextSunRise" stackId="5" startPc="268442728"/>
+<entry endPc="268443289" name="rise" stackId="6" startPc="268442728"/>
+<entry endPc="268443289" name="currSunset" stackId="3" startPc="268442728"/>
+<entry endPc="268443301" name="moment" stackId="2" startPc="268442667"/>
+<entry arg="true" endPc="268443302" name="current" stackId="1" startPc="268442663"/>
+<entry endPc="268443637" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268443315"/>
+<entry endPc="268443637" name="rez_cmp_local_text_HeartRate" stackId="3" startPc="268443315"/>
+<entry arg="true" endPc="268443638" name="dc" stackId="1" startPc="268443303"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -776,197 +782,198 @@
 <param id="data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437276" name="drawArray" parent="Coordinate" startPc="268436736">
+<functionEntry accessMode="public" endPc="268437358" name="drawArray" parent="Coordinate" startPc="268436736">
 <param id="dc"/>
 <param id="height"/>
 <param id="data"/>
 <param id="minOverride"/>
 <param id="maxOverride"/>
+<param id="currentValue"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268444563" name="&lt;init&gt;" parent="Coordinate" startPc="268444563">
+<functionEntry accessMode="protected" endPc="268444739" name="&lt;init&gt;" parent="Coordinate" startPc="268444739">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437303" name="initialize" parent="WeatherServiceDelegate" startPc="268437277">
+<functionEntry accessMode="public" endPc="268437385" name="initialize" parent="WeatherServiceDelegate" startPc="268437359">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437584" name="onTemporalEvent" parent="WeatherServiceDelegate" startPc="268437304">
+<functionEntry accessMode="public" endPc="268437666" name="onTemporalEvent" parent="WeatherServiceDelegate" startPc="268437386">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437690" name="onReceive" parent="WeatherServiceDelegate" startPc="268437585">
+<functionEntry accessMode="public" endPc="268437772" name="onReceive" parent="WeatherServiceDelegate" startPc="268437667">
 <param id="responseCode"/>
 <param id="data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443539" name="&lt;init&gt;" parent="WeatherServiceDelegate" startPc="268443521">
+<functionEntry accessMode="protected" endPc="268443715" name="&lt;init&gt;" parent="WeatherServiceDelegate" startPc="268443697">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437715" name="initialize" parent="ForecastResult" startPc="268437691">
+<functionEntry accessMode="public" endPc="268437797" name="initialize" parent="ForecastResult" startPc="268437773">
 <param id="data"/>
 <param id="rain"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443468" name="&lt;init&gt;" parent="ForecastResult" startPc="268443468">
+<functionEntry accessMode="protected" endPc="268443644" name="&lt;init&gt;" parent="ForecastResult" startPc="268443644">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437759" name="initialize" parent="Forecast" startPc="268437716">
+<functionEntry accessMode="public" endPc="268437841" name="initialize" parent="Forecast" startPc="268437798">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438237" name="getNextEvent" parent="Forecast" startPc="268437760">
+<functionEntry accessMode="public" endPc="268438319" name="getNextEvent" parent="Forecast" startPc="268437842">
 <param id="current"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443465" name="&lt;init&gt;" parent="globals/Forecast" startPc="268443465">
+<functionEntry accessMode="protected" endPc="268443641" name="&lt;init&gt;" parent="globals/Forecast" startPc="268443641">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443464" name="&lt;init&gt;" parent="Forecast" startPc="268443464">
+<functionEntry accessMode="protected" endPc="268443640" name="&lt;init&gt;" parent="Forecast" startPc="268443640">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438260" name="initialize" parent="test2App" startPc="268438238">
+<functionEntry accessMode="public" endPc="268438342" name="initialize" parent="test2App" startPc="268438320">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438265" name="onStart" parent="test2App" startPc="268438261">
+<functionEntry accessMode="public" endPc="268438347" name="onStart" parent="test2App" startPc="268438343">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438270" name="onStop" parent="test2App" startPc="268438266">
+<functionEntry accessMode="public" endPc="268438352" name="onStop" parent="test2App" startPc="268438348">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438312" name="getInitialView" parent="test2App" startPc="268438271">
+<functionEntry accessMode="public" endPc="268438394" name="getInitialView" parent="test2App" startPc="268438353">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443518" name="&lt;init&gt;" parent="test2App" startPc="268443500">
+<functionEntry accessMode="protected" endPc="268443694" name="&lt;init&gt;" parent="test2App" startPc="268443676">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438341" name="getApp" startPc="268438313">
+<functionEntry accessMode="public" endPc="268438423" name="getApp" startPc="268438395">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438356" name="initialize" parent="HeartRate" startPc="268438342">
+<functionEntry accessMode="public" endPc="268438438" name="initialize" parent="HeartRate" startPc="268438424">
 <param id="showHeartRate"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438419" name="currentHeartRate" parent="HeartRate" startPc="268438357">
+<functionEntry accessMode="public" endPc="268438501" name="currentHeartRate" parent="HeartRate" startPc="268438439">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438635" name="heartRateHistory" parent="HeartRate" startPc="268438420">
+<functionEntry accessMode="public" endPc="268438717" name="heartRateHistory" parent="HeartRate" startPc="268438502">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443520" name="&lt;init&gt;" parent="HeartRate" startPc="268443520">
+<functionEntry accessMode="protected" endPc="268443696" name="&lt;init&gt;" parent="HeartRate" startPc="268443696">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438690" name="initialize" parent="PlottableArray" startPc="268438636">
+<functionEntry accessMode="public" endPc="268438772" name="initialize" parent="PlottableArray" startPc="268438718">
 <param id="invalidData"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438715" name="addInvalidData" parent="PlottableArray" startPc="268438691">
+<functionEntry accessMode="public" endPc="268438797" name="addInvalidData" parent="PlottableArray" startPc="268438773">
 <param id="item"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438797" name="add" parent="PlottableArray" startPc="268438716">
+<functionEntry accessMode="public" endPc="268438879" name="add" parent="PlottableArray" startPc="268438798">
 <param id="item"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443519" name="&lt;init&gt;" parent="PlottableArray" startPc="268443519">
+<functionEntry accessMode="protected" endPc="268443695" name="&lt;init&gt;" parent="PlottableArray" startPc="268443695">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438820" name="initialize" parent="test2View" startPc="268438798">
+<functionEntry accessMode="public" endPc="268438902" name="initialize" parent="test2View" startPc="268438880">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438862" name="onLayout" parent="test2View" startPc="268438821">
+<functionEntry accessMode="public" endPc="268438944" name="onLayout" parent="test2View" startPc="268438903">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438867" name="onShow" parent="test2View" startPc="268438863">
+<functionEntry accessMode="public" endPc="268438949" name="onShow" parent="test2View" startPc="268438945">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438872" name="onPartialUpdate" parent="test2View" startPc="268438868">
+<functionEntry accessMode="public" endPc="268438954" name="onPartialUpdate" parent="test2View" startPc="268438950">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440660" name="onUpdate" parent="test2View" startPc="268438873">
+<functionEntry accessMode="public" endPc="268440836" name="onUpdate" parent="test2View" startPc="268438955">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441250" name="drawClocks" parent="test2View" startPc="268440661">
+<functionEntry accessMode="public" endPc="268441426" name="drawClocks" parent="test2View" startPc="268440837">
 <param id="dc"/>
 <param id="onlyMain"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441889" name="drawSaliencyArea" parent="test2View" startPc="268441251">
+<functionEntry accessMode="public" endPc="268442065" name="drawSaliencyArea" parent="test2View" startPc="268441427">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441894" name="onHide" parent="test2View" startPc="268441890">
+<functionEntry accessMode="public" endPc="268442070" name="onHide" parent="test2View" startPc="268442066">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441909" name="onExitSleep" parent="test2View" startPc="268441895">
+<functionEntry accessMode="public" endPc="268442085" name="onExitSleep" parent="test2View" startPc="268442071">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441924" name="onEnterSleep" parent="test2View" startPc="268441910">
+<functionEntry accessMode="public" endPc="268442100" name="onEnterSleep" parent="test2View" startPc="268442086">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268444562" name="&lt;init&gt;" parent="test2View" startPc="268443540">
+<functionEntry accessMode="protected" endPc="268444738" name="&lt;init&gt;" parent="test2View" startPc="268443716">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268442443" name="GetWeatherEmoji" parent="WeatherConditions" startPc="268441925">
+<functionEntry accessMode="public" endPc="268442619" name="GetWeatherEmoji" parent="WeatherConditions" startPc="268442101">
 <param id="c"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268444565" name="&lt;init&gt;" parent="globals/WeatherConditions" startPc="268444565">
+<functionEntry accessMode="protected" endPc="268444741" name="&lt;init&gt;" parent="globals/WeatherConditions" startPc="268444741">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268444564" name="&lt;init&gt;" parent="WeatherConditions" startPc="268444564">
+<functionEntry accessMode="protected" endPc="268444740" name="&lt;init&gt;" parent="WeatherConditions" startPc="268444740">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268442446" name="initialize" parent="WeatherConditions" startPc="268442444">
+<functionEntry accessMode="public" endPc="268442622" name="initialize" parent="WeatherConditions" startPc="268442620">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268442481" name="initialize" parent="SunRiseSetResult" startPc="268442447">
+<functionEntry accessMode="public" endPc="268442657" name="initialize" parent="SunRiseSetResult" startPc="268442623">
 <param id="type"/>
 <param id="timeText"/>
 <param id="time"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443469" name="&lt;init&gt;" parent="SunRiseSetResult" startPc="268443469">
+<functionEntry accessMode="protected" endPc="268443645" name="&lt;init&gt;" parent="SunRiseSetResult" startPc="268443645">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268442486" name="initialize" parent="SunRiseSet" startPc="268442482">
+<functionEntry accessMode="public" endPc="268442662" name="initialize" parent="SunRiseSet" startPc="268442658">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268443126" name="getNextEvent" parent="SunRiseSet" startPc="268442487">
+<functionEntry accessMode="public" endPc="268443302" name="getNextEvent" parent="SunRiseSet" startPc="268442663">
 <param id="current"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443467" name="&lt;init&gt;" parent="globals/SunRiseSet" startPc="268443467">
+<functionEntry accessMode="protected" endPc="268443643" name="&lt;init&gt;" parent="globals/SunRiseSet" startPc="268443643">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443466" name="&lt;init&gt;" parent="SunRiseSet" startPc="268443466">
+<functionEntry accessMode="protected" endPc="268443642" name="&lt;init&gt;" parent="SunRiseSet" startPc="268443642">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443494" name="&lt;init&gt;" parent="Drawables" startPc="268443494">
+<functionEntry accessMode="protected" endPc="268443670" name="&lt;init&gt;" parent="Drawables" startPc="268443670">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443496" name="&lt;init&gt;" parent="Fonts" startPc="268443496">
+<functionEntry accessMode="protected" endPc="268443672" name="&lt;init&gt;" parent="Fonts" startPc="268443672">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443498" name="&lt;init&gt;" parent="JsonData" startPc="268443498">
+<functionEntry accessMode="protected" endPc="268443674" name="&lt;init&gt;" parent="JsonData" startPc="268443674">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268443462" name="WatchFace" parent="Layouts" startPc="268443127">
+<functionEntry accessMode="public" endPc="268443638" name="WatchFace" parent="Layouts" startPc="268443303">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443497" name="&lt;init&gt;" parent="Layouts" startPc="268443497">
+<functionEntry accessMode="protected" endPc="268443673" name="&lt;init&gt;" parent="Layouts" startPc="268443673">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443495" name="&lt;init&gt;" parent="Menus" startPc="268443495">
+<functionEntry accessMode="protected" endPc="268443671" name="&lt;init&gt;" parent="Menus" startPc="268443671">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443499" name="&lt;init&gt;" parent="Strings" startPc="268443499">
+<functionEntry accessMode="protected" endPc="268443675" name="&lt;init&gt;" parent="Strings" startPc="268443675">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268443493" name="&lt;init&gt;" parent="Rez" startPc="268443470">
+<functionEntry accessMode="protected" endPc="268443669" name="&lt;init&gt;" parent="Rez" startPc="268443646">
 <documentation/>
 </functionEntry>
 </functions>

@@ -149,22 +149,29 @@ class Coordinate
         }
     }
 
-    function drawArray(dc, height as Double, data as PlottableArray, minOverride, maxOverride)
+    function drawArray(dc, height as Double, data as PlottableArray, minOverride, maxOverride, currentValue as Number)
     {
         var max = data.max > maxOverride ? data.max : maxOverride;
         var min = data.min < minOverride ? data.min : minOverride;
         var diff = (max - min);
         var oneHR = height / diff;
 
+        // draw the left bar 
         dc.setPenWidth(1);
 
         var eightyP = Y + ((max - 80) * oneHR);
         dc.drawLine(X - 1, eightyP, X + 2, eightyP);
 
+
         var oneTwentyP = Y + ((max - 110) * oneHR);
         dc.drawLine(X - 1, oneTwentyP, X + 2, oneTwentyP);
 
+        // draw vertical
         dc.drawLine(X - 1, oneTwentyP, X - 1, eightyP);
+
+        // add current val to the vertical bar
+        var currentValueP = max < currentValue ? Y : Y + ((max - currentValue) * oneHR);
+        dc.drawLine(X - 1, currentValueP, X + 2, currentValueP);
 
         dc.setPenWidth(2);
 

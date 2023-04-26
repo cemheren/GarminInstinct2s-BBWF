@@ -19,7 +19,7 @@ class HeartRate
         
         if(info == null || info.currentHeartRate == null)
         {
-            return "--";
+            return 0;
         } 
 
         return info.currentHeartRate;
