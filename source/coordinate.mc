@@ -68,6 +68,31 @@ class Coordinate
         dc.drawLine(X, Y, X + (maxLength * fraction), Y);
     }
 
+    function drawVerticalLineForPercentile(dc, width, maxLength, fraction)
+    {
+        if(fraction >= 1)
+        {
+            fraction = 1;
+        }
+
+        dc.setPenWidth(width);
+        dc.drawLine(X - 1, Y, X - 1, Y - (maxLength * fraction));
+    }
+
+    function drawPointWithOffset(dc, XOffset, penWidth)
+    {
+        dc.setPenWidth(penWidth);
+        dc.drawPoint(X + XOffset, Y);
+    }
+
+    function drawPointWithYOffset(dc, YOffset, penWidth)
+    {
+        dc.setPenWidth(penWidth);
+        // dc.drawPoint(X, Y - YOffset);
+
+        dc.drawLine(X - 1, Y - YOffset, X + 2, Y - YOffset);
+    }
+
     function drawHorizontalLine(dc, width, length)
     {
         dc.setPenWidth(width);

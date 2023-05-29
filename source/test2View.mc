@@ -33,7 +33,10 @@ class test2View extends WatchUi.WatchFace {
 
     private var middleBarStartY = 98; 
 
-    private var bottomDividerStart = new Coordinate(5, middleBarStartY + 20);
+    private var bottomVersicalDividerHeight = 20;
+    private var temperatureMeterBottomStart = new Coordinate(3, middleBarStartY + bottomVersicalDividerHeight);
+    
+    private var bottomDividerStart = new Coordinate(5, middleBarStartY + bottomVersicalDividerHeight);
     private var bottomVerticalDividerOneStart = new Coordinate(50, middleBarStartY);
     private var bottomVerticalDividerTwoStart = new Coordinate(100, middleBarStartY);
 
@@ -149,7 +152,20 @@ class test2View extends WatchUi.WatchFace {
 
             if(current.highTemperature != null && current.highTemperature > 0)
             {
-                bottomDividerStart.drawHorizontalLineForPercentile(dc, 2, 45, current.feelsLikeTemperature.toDouble() / current.highTemperature );
+                var h = 80.0;
+                temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (current.highTemperature / 30.0), 2);
+                
+                temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (-0.22), 1); // 20 F  -6.6 / 30.0
+                // temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (0 / 30.0), 1);
+                temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (0.14), 1); // 40 F   4.4 / 30.0
+                temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (0.51), 1); // 60 F  15.5 / 30.0
+                temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (0.88), 1); // 80 F  26.6 / 30.0
+                // temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (30 / 30.0), 1);
+                
+                var currentRatio = current.feelsLikeTemperature / 30.0;
+
+                temperatureMeterBottomStart.drawPointWithYOffset(dc, h * (currentRatio), 2);
+                temperatureMeterBottomStart.drawVerticalLineForPercentile(dc, 2, h, currentRatio);
             }
 
         }else
@@ -201,8 +217,8 @@ class test2View extends WatchUi.WatchFace {
         }
 
         bottomDividerStart.drawHorizontalLine(dc, 1, 145);
-        bottomVerticalDividerOneStart.drawVerticalLine(dc, 1, 20);
-        bottomVerticalDividerTwoStart.drawVerticalLine(dc, 1, 20);
+        bottomVerticalDividerOneStart.drawVerticalLine(dc, 1, bottomVersicalDividerHeight);
+        bottomVerticalDividerTwoStart.drawVerticalLine(dc, 1, bottomVersicalDividerHeight);
 
         if(info != null && info.timeToRecovery != null && info.timeToRecovery != 0)
         {

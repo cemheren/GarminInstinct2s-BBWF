@@ -23,5 +23,6 @@ All other parts of the watch face is only drawn once a minute.
 7. Added a recovery area - shows recovery time only when it's set. 
 8. Top divider bar showing how long the night day/cycle has left in the last 8 hours
 9. Bottom divider under steps now show how far daily steps have progressed as a percentage 
+10. Left side temperature bar showing current temp and expected highest temp in the day. 
 
 ![](screenshots/full.png)
