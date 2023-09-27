@@ -1,13 +1,15 @@
 class ForecastResult
 {
-    function initialize(data, rain)
+    function initialize(dailyData, weeklyData, rain)
     {
-        Data = data;
+        DailyData = dailyData;
         Rain = rain;
+        WeeklyData = weeklyData;
     }
 
-    public var Data;
+    public var DailyData;
     public var Rain;
+    public var WeeklyData;
 }
 
 class Forecast
@@ -61,19 +63,27 @@ class Forecast
 
                     if(rain)
                     {
+                        var dailyForecast = Toybox.Weather.getDailyForecast();
+                        var dailyGraphData = new PlottableArray(-1000);
+
+                        for(var i = 0; i < dailyForecast.size() && i < 5; ++i)
+                        {
+                            dailyGraphData.add(dailyForecast[i].precipitationChance);
+                        }
+                        
                         cacheExpiry = moment.add(HALF_HOUR);
-                        cacheValue = new ForecastResult(graphData, true);
-                        // saliencyAreaGraphCoor.drawPercentageBarChart(dc, 25.0 /*height*/, 40.0, graphData);
-                        return cacheValue;
-                    }else
+                        cacheValue = new ForecastResult(graphData, dailyGraphData, rain);
+                    }
+                    else
                     {
                         cacheExpiry = moment.add(HALF_HOUR);
-                        cacheValue = new ForecastResult(graphData, false);
-                        return cacheValue;
+                        cacheValue = new ForecastResult(null, null, false);
                     }
+
+                    return cacheValue;
                 }
 
-                return new ForecastResult(null, false);
+                return new ForecastResult(null, null, false);
             }
             return cacheValue;
         }else{

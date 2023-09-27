@@ -145,7 +145,7 @@ class Coordinate
         }
     }
 
-    function drawPercentageBarChart(dc, height as Double, width as Double, data as PlottableArray)
+    function drawPercentageBarChart(dc, height as Double, width as Double, data as PlottableArray, penWidth)
     {
         if(data.data.size() <= 0){return;}
 
@@ -153,10 +153,10 @@ class Coordinate
         var max = 100;
 
         dc.setPenWidth(1);
-        dc.drawLine(X - 4, Y, X - 4, Y + height);
+        dc.drawLine(X - 4, Y, X - 4, Y + height + 1);
         dc.drawLine(X - 4, Y, X - 2 + width, Y);
 
-        dc.setPenWidth(2);
+        dc.setPenWidth(penWidth);
         
         var bottomY = Y + height;
 

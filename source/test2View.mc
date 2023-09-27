@@ -56,7 +56,9 @@ class test2View extends WatchUi.WatchFace {
     private var saliencyAreaLineOneCoor = new Coordinate(135, 5);
     private var saliencyAreaLineTwoCoor = new Coordinate(135, 25);
 
-    private var saliencyAreaGraphCoor = new Coordinate(118, 14);
+    private var saliencyAreaGraphCoor = new Coordinate(120, 10);
+    
+    private var saliencyAreaSecondGraphCoor = new Coordinate(128, 36);
 
     private var saliencyAreaCircleGraphCoor = new Coordinate(136, 27);
 
@@ -301,11 +303,12 @@ class test2View extends WatchUi.WatchFace {
         {
             var forecastResult = forecast.getNextEvent(current);
 
-            if(forecastResult != null && forecastResult.Data != null && forecastResult.Rain) // if rain is false should be enough here but can't be too safe with this stuff
+            if(forecastResult != null && forecastResult.DailyData != null && forecastResult.Rain) // if rain is false should be enough here but can't be too safe with this stuff
             {
-                // saliencyAreaCircleGraphCoor.drawPercentageCurvedBarChart(dc, 25.0, 40.0, forecastResult.Data);
+                // saliencyAreaCircleGraphCoor.drawPercentageCurvedBarChart(dc, 25.0, 40.0, forecastResult.DailyData);
 
-                saliencyAreaGraphCoor.drawPercentageBarChart(dc, 25.0 /*height*/, 40.0, forecastResult.Data);
+                saliencyAreaGraphCoor.drawPercentageBarChart(dc, 20.0 /*height*/, 36.0, forecastResult.DailyData, 2);
+                saliencyAreaSecondGraphCoor.drawPercentageBarChart(dc, 10.0 /*height*/, 20.0, forecastResult.WeeklyData, 3);
                 return;
             }
 
